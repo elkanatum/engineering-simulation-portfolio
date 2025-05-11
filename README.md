@@ -1,43 +1,50 @@
-# ESGDT – Engineering Simulations with Game Development Tools
+# 🛠️ Project Portfolio
 
-> **Capstone Project ID: C.S.76**  
-> Oregon State University | College of Engineering  
-> Team: Gaikwad, Tay, Tum
+Welcome to my portfolio for Engineering Simulations and Systems Development!  
+This repository showcases key academic and personal projects that demonstrate my skills in real-time simulation, system-level programming, and algorithmic development.
 
----
-
-## 📌 Project Overview
-
-Engineering Simulations with Game Development Tools (ESGDT) is a real-time simulation project focused on visualizing autonomous vehicle behavior using the Bevy game engine. This simulation leverages Rust and OpenGL principles to animate realistic vehicle dynamics, steering behavior, and potential environment interactions.
-
-Our project explores how game development frameworks can enhance engineering simulations with interactive visuals and user-driven input.
+Each project explores different aspects of simulation, from visualizing autonomous vehicle behavior to building powerful Python utilities for data formatting and transformation.
 
 ---
 
-## 🧰 Technologies Used
+## 🚗 Capstone Project: ESGDT – Engineering Simulations with Game Development Tools  
+**[View Project](https://github.com/sahilg2000/ESGDT)**
 
-- **Rust** (programming language)
-- **Bevy** (game engine)
-- **Cargo** (Rust build system)
-- **OpenGL concepts**
-- **GitHub** for version control and documentation
+A real-time simulation visualizing autonomous vehicle behavior using the Bevy game engine in Rust.  
+The project simulates dynamic steering logic, collision response, and path-following systems, incorporating OpenGL concepts for rendering.
+
+**Technologies:**  
+- Rust  
+- Bevy (game engine)  
+- Cargo (Rust build system)  
+- OpenGL concepts
 
 ---
 
-## 📥 Installation
+## ⭐ Number Utils Library  
+**[View Project Folder](https://github.com/chengmic/ci_project)**
 
-### ⚙️ Prerequisites
+A Python utility library offering reliable conversion tools for numeric data:
+- Convert strings to integers, floats, or hexadecimal
+- Handle endianness formatting
+- Convert Unix timestamps to human-readable date formats
 
-Make sure the following are installed:
+Includes over 10,000 unit tests for validation and robustness.
 
-- Rust (comes with Cargo)
-- Visual Studio C++ Build Tools (Windows users only)
+**Technologies:**  
+- Python 3.x  
+- `unittest` framework  
+- No external dependencies
 
-### 📦 Install Rust
+---
 
-#### Windows
-1. Download the installer: [https://rustup.rs](https://rustup.rs)
-2. Run the installer and follow instructions
-3. Verify with:  
-   ```bash
-   rustc --version
+## 📌 About This Portfolio
+
+This portfolio was built as part of my coursework at Oregon State University to demonstrate:
+- Proficiency in simulation and visualization tools
+- Development of reusable libraries and test-driven workflows
+- Strong grasp of algorithmic thinking and software design
+
+Feel free to explore each project folder for source code, documentation, and test suites.
+
+---
